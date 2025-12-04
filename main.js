@@ -1,2 +1,3 @@
-document.getElementById('Home').innerHTML = "welcome to My Page"
+document.getElementById('Home').innerHTML = ""
+
 window.alert('welcome to My Page , with my Best Wishes : Emad Mohammad');
