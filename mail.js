@@ -1,1 +1,0 @@
-window.alert('welcome to My Page');
